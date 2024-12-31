@@ -1,1 +1,2 @@
 # Minesweeper-Game-Application
+Classic Minesweeper game using Java and JavaFX to create an interactive graphical user interface (GUI). The project involved implementing core game mechanics such as grid generation, mine placement, and reveal function, while ensuring a smooth user experience. JavaFX was used to build dynamic components such as buttons, labels, and timers, and to handle user input. The application also features win/loss conditions, game reset functionality, and a responsive layout, providing an engaging experience on desktop platforms.
