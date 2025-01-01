@@ -1,0 +1,10 @@
+out/
+.idea/
+.idea_modules/
+target/
+src/main/resources/
+pom.xml
+*.iml
+*.ipr
+*.iws
+*.wav
